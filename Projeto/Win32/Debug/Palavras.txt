@@ -1,0 +1,10 @@
+Afobado;Sem Paciencia;
+Amendoim;Rapadura;
+Banheiro;Como Casa;
+Caatinga;Bioma Brasileiro;
+Cachorro;Animal Estimacao;
+Campeonato;Grupo de Pessoal;
+Capricornio;Signo;
+Catapora;Doenca;
+Corrupcao;Politica;
+Aula;Horus faculdades;
